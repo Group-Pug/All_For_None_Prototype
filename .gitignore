@@ -14,4 +14,8 @@
 /*.booproj
 
 #Unity3D Generated File On Crash Reports
+<<<<<<< HEAD
 sysinfo.txt
+=======
+sysinfo.txt
+>>>>>>> 3727a6d37d6db720cd527c01ae54aea17af398a7
