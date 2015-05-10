@@ -15,7 +15,6 @@ public class SplashScreenSoundHandler : MonoBehaviour {
 	}
 
 	void PlayDogBark() {
-		//Camera.main.GetComponent<AudioSource>().clip = dogBark;
 		Camera.main.GetComponent<AudioSource>().PlayOneShot(dogBark);
 	}
 
