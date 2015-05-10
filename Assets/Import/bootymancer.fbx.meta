@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: 3d692f6645735ba4bbad06670a0f17ef
+timeCreated: 1431265565
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: arm.L
+    100002: arm.R
+    100004: booty.001
+    100006: booty.cloth
+    100008: booty.rig.001
+    100010: //RootNode
+    100012: buttock.L
+    100014: buttock.R
+    100016: buttocks
+    100018: CTRL.foot.L
+    100020: CTRL.foot.R
+    100022: CTRL.hand.L
+    100024: CTRL.hand.L_end
+    100026: CTRL.hand.R
+    100028: CTRL.hand.R_end
+    100030: fingers.L.001
+    100032: fingers.L.002
+    100034: fingers.L.003
+    100036: fingers.L.003_end
+    100038: fingers.R.001
+    100040: fingers.R.002
+    100042: fingers.R.003
+    100044: fingers.R.003_end
+    100046: foot.L
+    100048: foot.L_end
+    100050: foot.R
+    100052: foot.R_end
+    100054: forearm.L
+    100056: forearm.R
+    100058: gem.butt.L
+    100060: gem.butt.L_end
+    100062: gem.butt.R
+    100064: gem.butt.R_end
+    100066: gem.down
+    100068: gem.down_end
+    100070: gem.up
+    100072: gem.up_end
+    100074: hair
+    100076: hair_end
+    100078: hand.L
+    100080: hand.R
+    100082: head
+    100084: hips
+    100086: hood.001
+    100088: hood.002
+    100090: hood.003
+    100092: hood.003_end
+    100094: leg.pole.L
+    100096: leg.pole.L_end
+    100098: leg.pole.R
+    100100: leg.pole.R_end
+    100102: neck
+    100104: root
+    100106: shin.L
+    100108: shin.R
+    100110: sleeve.L
+    100112: sleeve.L_end
+    100114: sleeve.R
+    100116: sleeve.R_end
+    100118: spine
+    100120: sternum.L
+    100122: sternum.R
+    100124: thigh.L
+    100126: thigh.R
+    100128: thumb.L.001
+    100130: thumb.L.002
+    100132: thumb.L.002_end
+    100134: thumb.R.001
+    100136: thumb.R.002
+    100138: thumb.R.002_end
+    100140: torso
+    400000: arm.L
+    400002: arm.R
+    400004: booty.001
+    400006: booty.cloth
+    400008: booty.rig.001
+    400010: //RootNode
+    400012: buttock.L
+    400014: buttock.R
+    400016: buttocks
+    400018: CTRL.foot.L
+    400020: CTRL.foot.R
+    400022: CTRL.hand.L
+    400024: CTRL.hand.L_end
+    400026: CTRL.hand.R
+    400028: CTRL.hand.R_end
+    400030: fingers.L.001
+    400032: fingers.L.002
+    400034: fingers.L.003
+    400036: fingers.L.003_end
+    400038: fingers.R.001
+    400040: fingers.R.002
+    400042: fingers.R.003
+    400044: fingers.R.003_end
+    400046: foot.L
+    400048: foot.L_end
+    400050: foot.R
+    400052: foot.R_end
+    400054: forearm.L
+    400056: forearm.R
+    400058: gem.butt.L
+    400060: gem.butt.L_end
+    400062: gem.butt.R
+    400064: gem.butt.R_end
+    400066: gem.down
+    400068: gem.down_end
+    400070: gem.up
+    400072: gem.up_end
+    400074: hair
+    400076: hair_end
+    400078: hand.L
+    400080: hand.R
+    400082: head
+    400084: hips
+    400086: hood.001
+    400088: hood.002
+    400090: hood.003
+    400092: hood.003_end
+    400094: leg.pole.L
+    400096: leg.pole.L_end
+    400098: leg.pole.R
+    400100: leg.pole.R_end
+    400102: neck
+    400104: root
+    400106: shin.L
+    400108: shin.R
+    400110: sleeve.L
+    400112: sleeve.L_end
+    400114: sleeve.R
+    400116: sleeve.R_end
+    400118: spine
+    400120: sternum.L
+    400122: sternum.R
+    400124: thigh.L
+    400126: thigh.R
+    400128: thumb.L.001
+    400130: thumb.L.002
+    400132: thumb.L.002_end
+    400134: thumb.R.001
+    400136: thumb.R.002
+    400138: thumb.R.002_end
+    400140: torso
+    4300000: booty.001
+    4300002: booty.cloth
+    7400000: booty.rig.001|booty
+    7400002: booty.rig.001|booty.001
+    7400004: booty.rig.001|booty.002
+    7400006: booty.rig.001|booty.003
+    7400008: booty.rig.001|booty.idle.blocking
+    7400010: booty.idle.splining
+    7400012: booty.rig.001|booty.idle.splining2
+    9500000: //RootNode
+    13700000: booty.001
+    13700002: booty.cloth
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: booty.idle.splining
+      takeName: booty.rig.001|booty.idle.splining1
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: booty.001
+        weight: 1
+      - path: booty.cloth
+        weight: 1
+      - path: booty.rig.001
+        weight: 1
+      - path: booty.rig.001/root
+        weight: 1
+      - path: booty.rig.001/root/CTRL.foot.L
+        weight: 1
+      - path: booty.rig.001/root/CTRL.foot.L/leg.pole.L
+        weight: 1
+      - path: booty.rig.001/root/CTRL.foot.L/leg.pole.L/leg.pole.L_end
+        weight: 1
+      - path: booty.rig.001/root/CTRL.foot.R
+        weight: 1
+      - path: booty.rig.001/root/CTRL.foot.R/leg.pole.R
+        weight: 1
+      - path: booty.rig.001/root/CTRL.foot.R/leg.pole.R/leg.pole.R_end
+        weight: 1
+      - path: booty.rig.001/root/hips
+        weight: 1
+      - path: booty.rig.001/root/hips/buttocks
+        weight: 1
+      - path: booty.rig.001/root/hips/buttocks/buttock.L
+        weight: 1
+      - path: booty.rig.001/root/hips/buttocks/buttock.L/gem.butt.L
+        weight: 1
+      - path: booty.rig.001/root/hips/buttocks/buttock.L/gem.butt.L/gem.butt.L_end
+        weight: 1
+      - path: booty.rig.001/root/hips/buttocks/buttock.R
+        weight: 1
+      - path: booty.rig.001/root/hips/buttocks/buttock.R/gem.butt.R
+        weight: 1
+      - path: booty.rig.001/root/hips/buttocks/buttock.R/gem.butt.R/gem.butt.R_end
+        weight: 1
+      - path: booty.rig.001/root/hips/gem.down
+        weight: 1
+      - path: booty.rig.001/root/hips/gem.down/gem.down_end
+        weight: 1
+      - path: booty.rig.001/root/hips/spine
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/gem.up
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/gem.up/gem.up_end
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/hood.001
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/hood.001/hood.002
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/hood.001/hood.002/hood.003
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/hood.001/hood.002/hood.003/hood.003_end
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/neck
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/neck/head
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/neck/head/hair
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/neck/head/hair/hair_end
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.L
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.L/arm.L
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.L/arm.L/forearm.L
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.L/arm.L/forearm.L/CTRL.hand.L
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.L/arm.L/forearm.L/CTRL.hand.L/CTRL.hand.L_end
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.L/arm.L/forearm.L/hand.L
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.L/arm.L/forearm.L/hand.L/fingers.L.001
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.L/arm.L/forearm.L/hand.L/fingers.L.001/fingers.L.002
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.L/arm.L/forearm.L/hand.L/fingers.L.001/fingers.L.002/fingers.L.003
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.L/arm.L/forearm.L/hand.L/fingers.L.001/fingers.L.002/fingers.L.003/fingers.L.003_end
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.L/arm.L/forearm.L/hand.L/thumb.L.001
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.L/arm.L/forearm.L/hand.L/thumb.L.001/thumb.L.002
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.L/arm.L/forearm.L/hand.L/thumb.L.001/thumb.L.002/thumb.L.002_end
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.L/arm.L/forearm.L/sleeve.L
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.L/arm.L/forearm.L/sleeve.L/sleeve.L_end
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.R
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.R/arm.R
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.R/arm.R/forearm.R
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.R/arm.R/forearm.R/CTRL.hand.R
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.R/arm.R/forearm.R/CTRL.hand.R/CTRL.hand.R_end
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.R/arm.R/forearm.R/hand.R
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.R/arm.R/forearm.R/hand.R/fingers.R.001
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.R/arm.R/forearm.R/hand.R/fingers.R.001/fingers.R.002
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.R/arm.R/forearm.R/hand.R/fingers.R.001/fingers.R.002/fingers.R.003
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.R/arm.R/forearm.R/hand.R/fingers.R.001/fingers.R.002/fingers.R.003/fingers.R.003_end
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.R/arm.R/forearm.R/hand.R/thumb.R.001
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.R/arm.R/forearm.R/hand.R/thumb.R.001/thumb.R.002
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.R/arm.R/forearm.R/hand.R/thumb.R.001/thumb.R.002/thumb.R.002_end
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.R/arm.R/forearm.R/sleeve.R
+        weight: 1
+      - path: booty.rig.001/root/hips/spine/torso/sternum.R/arm.R/forearm.R/sleeve.R/sleeve.R_end
+        weight: 1
+      - path: booty.rig.001/root/hips/thigh.L
+        weight: 1
+      - path: booty.rig.001/root/hips/thigh.L/shin.L
+        weight: 1
+      - path: booty.rig.001/root/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: booty.rig.001/root/hips/thigh.L/shin.L/foot.L/foot.L_end
+        weight: 1
+      - path: booty.rig.001/root/hips/thigh.R
+        weight: 1
+      - path: booty.rig.001/root/hips/thigh.R/shin.R
+        weight: 1
+      - path: booty.rig.001/root/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: booty.rig.001/root/hips/thigh.R/shin.R/foot.R/foot.R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
