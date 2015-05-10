@@ -3,7 +3,8 @@ using System.Collections;
 
 public class StopAnimation : MonoBehaviour {
 
-	void StopCurrentAnimation() {
+	void StopCurrentAnimation() 
+	{
 		GetComponent<Animator>().enabled = false;
 	}
 }

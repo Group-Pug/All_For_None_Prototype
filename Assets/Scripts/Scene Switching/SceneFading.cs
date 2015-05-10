@@ -10,6 +10,7 @@ public class SceneFading : MonoBehaviour {
 	private int fadeDir = -1; 							// direction to fade: in = -1, out = 1;
 
 	void OnGui() {
+		Debug.Log ("OnGui Ran");
 		// fade the alpha
 		alpha += fadeDir * fadeSpeed * Time.deltaTime; 
 		// clamp number between 0 and 1 because Gui.color is between 0 and 1
@@ -20,15 +21,15 @@ public class SceneFading : MonoBehaviour {
 		GUI.depth = drawDepth; //render it on top
 		GUI.DrawTexture ( new Rect (0,0,Screen.width, Screen.height), fadeOutTexture ); //fill screen
 	}
+	
+	//load level = fade in
+	void OnLevelWasLoaded() {
+		BeginFade (-1);
+	}
 
 	public float BeginFade( int direction ) {
 		fadeDir = direction;
 		return(fadeSpeed); // returning fade speed so we can time when to load next scene
-	
-	}
-
-	//load level = fade in
-	void OnLevelWasLoaded() {
-		BeginFade (-1);
+		
 	}
 }
