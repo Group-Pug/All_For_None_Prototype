@@ -419,7 +419,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd5f099830bd6814e93752aa76189ecd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  model: {fileID: 100002, guid: e6164d02cd708014dbf094f0c171284a, type: 3}
+  model: {fileID: 100000, guid: 749fec0840f9a32408782943a1cf3e5f, type: 3}
   spawnPos: {x: 5, y: -3, z: 0}
 --- !u!1 &1300109683
 GameObject:
@@ -452,7 +452,7 @@ RectTransform:
   - {fileID: 1743895214}
   - {fileID: 997604235}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -549,9 +549,10 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 446162, guid: da47941af653de041bb5eae4653ff5cf, type: 2}
       propertyPath: m_RootOrder
-      value: 4
+      value: 1
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 11446162, guid: da47941af653de041bb5eae4653ff5cf, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: da47941af653de041bb5eae4653ff5cf, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &1743895213 stripped
@@ -574,7 +575,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd5f099830bd6814e93752aa76189ecd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  model: {fileID: 100004, guid: 8d050c7bd0ce401438990eea3380467f, type: 3}
+  model: {fileID: 100000, guid: 41d475ebab7a49e40bef11c7e7a34499, type: 3}
   spawnPos: {x: 5, y: -3, z: 0}
 --- !u!1 &2091698309
 GameObject:
@@ -648,4 +649,4 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
